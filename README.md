@@ -44,15 +44,6 @@ Si el vídeo estaba pausado y falla la petición, lo reproduce automáticamente 
 
 ---
 
-### 3. Mensaje para tu comunidad de Discord
-
-```text
-🌟 **¡Hola comunidad!** 🌟
-
-¿A veces están viendo un curso, un stream de Twitch o un video de YouTube y les molesta no poder cambiar de pestaña sin perder de vista el video? 
-
-Me armé un **Bookmarklet (marcador para el navegador)** que fuerza el modo **Picture-in-Picture** (pantalla flotante siempre al frente) en prácticamente CUALQUIER video de internet (incluso en las páginas que lo bloquean de forma nativa). ¡Sin extensiones pesadas!
-
 Instalarlo toma literalmente 3 segundos:
 1. Entra a la web que armé aquí abajo.
 2. Arrastra el botón verde a tu barra de marcadores del navegador.
