@@ -21,6 +21,7 @@ Si prefieres añadirlo manualmente a tu navegador:
 
 ```javascript
 javascript:(function(){const v=document.querySelector('video');if(v){v.removeAttribute('disablePictureInPicture');v.disablePictureInPicture=false;v.requestPictureInPicture().catch(()=>{v.play();setTimeout(()=>v.requestPictureInPicture(),100);});}else{alert('Pon el video primero');}})();
+```
 
 ## 🛠️ Cómo se usa
 Entra a cualquier web y reproduce un vídeo (YouTube, Twitch, Netflix, plataformas de cursos, etc.).
