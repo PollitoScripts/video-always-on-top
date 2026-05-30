@@ -1,4 +1,4 @@
-# video-always-on-top # 📺 Universal Picture-in-Picture Bookmarklet
+# 📺 Universal Picture-in-Picture Bookmarklet
 
 Una herramienta ultra ligera (Bookmarklet) que permite activar el modo **Picture-in-Picture (PiP)** en prácticamente cualquier vídeo de internet, permitiéndote moverlo, redimensionarlo y mantenerlo siempre visible en primer plano mientras trabajas en otras pestañas o aplicaciones.
 
